@@ -1,16 +1,5 @@
 # vision_bus
 
-A new Flutter project.
+O VisionBus é um protótipo de um app de locomoçã0 para deficientes visuais, desenvolvido em Flutter por mim e um amigo e utilizado como Trabalho de Conclusão de Curso.
+O app tem foco nas linhas de Campinas/SP, seu desenvolvimento ainda não esta 100% completo.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
